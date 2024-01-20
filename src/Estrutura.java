@@ -16,5 +16,6 @@ public class Estrutura {
         String sexta = "Redação e Português";
         System.out.println(sexta);
 
+        System.out.println("Teste");
     }
 }
